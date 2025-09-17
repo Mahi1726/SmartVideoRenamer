@@ -1,3 +1,5 @@
+##SMART VIDEO RENAMER
+
 
 **SmartVideoRenamer** is a Python-based application that automates the tedious task of organizing and renaming videos based on visual similarity to reference images. It uses the **Structural Similarity Index (SSIM)** to find the closest matching image for each video’s first frame and renames the video accordingly.
 
